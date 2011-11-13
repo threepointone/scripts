@@ -1,0 +1,1 @@
+config.ru - use inside your root node folder to serve node apps via pow. don't forget to modify port numbers.
